@@ -15,6 +15,7 @@ CatBadge supports **svg**, **webp** and **png** formats out of the box:
 | SVG    | `?format=svg`  | ![SVG example](https://cat.rikonardo.com/builtin/static/mutiple-formats?format=svg)   |
 | WEBP   | `?format=webp` | ![WebP example](https://cat.rikonardo.com/builtin/static/mutiple-formats?format=webp) |
 | PNG    | `?format=png`  | ![PNG example](https://cat.rikonardo.com/builtin/static/mutiple-formats?format=png)   |
+
 This can be useful when SVG format not supported by website. By default, CatBadge uses SVG format.
 
 ## Styles
