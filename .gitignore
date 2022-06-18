@@ -1,0 +1,6 @@
+/.gradle
+/.idea
+/build
+/run
+/badge-api/build
+/publish.properties
